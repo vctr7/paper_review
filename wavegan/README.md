@@ -54,4 +54,6 @@ Phase shuffle randomly perturbs the phase of each layer's activations by put to 
 It helps the Discriminator's work by requiring invariance to the phase of the input waveform.
 
 
+## References
 
+- [https://github.com/chrisdonahue](https://github.com/chrisdonahue)
