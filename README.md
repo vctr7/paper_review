@@ -1,1 +1,7 @@
-# paper_review
+# Paper Review
+
+## List
+
+- WaveGAN
+
+- Meena
